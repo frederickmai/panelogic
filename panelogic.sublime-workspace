@@ -1,0 +1,323 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"__",
+				"__future__	(module)"
+			],
+			[
+				"url",
+				"urllib	(module)"
+			],
+			[
+				"sl",
+				"slugify	(function)"
+			],
+			[
+				"slug",
+				"slugify"
+			],
+			[
+				"file",
+				"filename	(param)"
+			],
+			[
+				"ab",
+				"ablist	(module)"
+			],
+			[
+				"auto",
+				"auto_now_add	(param)"
+			],
+			[
+				"Dat",
+				"DateTimeField	(class)"
+			],
+			[
+				"ch",
+				"CharField	(class)"
+			],
+			[
+				"def",
+				"def	Function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "panelogic.py",
+			"settings":
+			{
+				"buffer_size": 117,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: dele",
+		"selected_items":
+		[
+			[
+				"Package Control: dele",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/frede_000/panelogic/panelogic",
+		"/C/Users/frede_000/cellmarkers/src/templates/panel_detail.html",
+		"/C/Users/frede_000/cellmarkers/src/panel/models.py",
+		"/C/Users/frede_000/cellmarkers/src/templates/base.html",
+		"/C/Users/frede_000/cellmarkers/src/templates/panel_list.html",
+		"/C/Users/frede_000/cellmarkers/src/panel/views.py",
+		"/C/Users/frede_000/cellmarkers/src/panel/urls.py",
+		"/C/Users/frede_000/cellmarkers/src/panel/templatetags/urlify.py",
+		"/C/Users/frede_000/cellmarkers/src/panel/templatetags/__init__.py",
+		"/C/Users/frede_000/cellmarkers/src/panel/__init__.py",
+		"/C/Users/frede_000/cellmarkers/src/db.sqlite3",
+		"/C/Users/frede_000/cellmarkers/src/panel/migrations/0001_initial.py",
+		"/C/Users/frede_000/cellmarkers/src/templates/panel_form.html",
+		"/C/Users/frede_000/cellmarkers/src/panel/forms.py",
+		"/C/Users/frede_000/cellmarkers/src/cell/settings/base.py",
+		"/C/Users/frede_000/cellmarkers/src/cell/urls.py",
+		"/C/Users/frede_000/cellmarkers/src/templates/base_jumbotron.html",
+		"/C/Users/frede_000/cellmarkers/src/static/css/base.css",
+		"/C/Users/frede_000/cellmarkers/src/templates/messages_display.html",
+		"/C/Users/frede_000/cellmarkers/facs/src/cell/settings/base.py",
+		"/C/Users/frede_000/cellmarkers/facs/src/cell/wsgi.py",
+		"/C/Users/frede_000/cellmarkers/facs/src/cell/settings/__init__.py",
+		"/C/Users/frede_000/cellmarkers/facs/src/cell/settings/production.py",
+		"/C/Users/frede_000/cellmarkers/facs/src/cell/settings/local.py",
+		"/C/Users/frede_000/cellmarkers/facs/src/manage.py",
+		"/C/Users/frede_000/cellmarkers/facs/httpd.conf",
+		"/C/Users/frede_000/cellmarkers/facs/src/cell/setting/production.py",
+		"/C/Users/frede_000/cellmarkers/facs/src/cell/setting/base.py",
+		"/C/Users/frede_000/cellmarkers/facs/src/cell/setting/__init__.py",
+		"/C/Users/frede_000/cellmarkers/facs/src/cell/settings.py",
+		"/C/Users/frede_000/cellmarkers/facs/src/cell/old_settings.py",
+		"/C/Users/frede_000/cellmarkers/facs/src/cell/setting/local.py",
+		"/C/Users/frede_000/cellmarkers/facs/src/templates/base.html",
+		"/C/Users/frede_000/cellmarkers/facs/src/panel/ablist.py",
+		"/C/Users/frede_000/cellmarkers/facs/src/joins/views.py",
+		"/C/Users/frede_000/cellmarkers/facs/src/joins/tests.py",
+		"/C/Users/frede_000/cellmarkers/facs/src/panel/urls.py",
+		"/C/Users/frede_000/cellmarkers/facs/src/cell/production.py",
+		"/C/Users/frede_000/Desktop/httpd.conf",
+		"/C/Users/frede_000/cellmarkers/facs/src/templates/Back up for base.html",
+		"/C/Users/frede_000/cellmarkers/facs/src/templates/panel_form.html",
+		"/C/Users/frede_000/cellmarkers/facs/src/templates/panel_detail.html",
+		"/C/Users/frede_000/cellmarkers/facs/src/templates/navbar.html",
+		"/C/Users/frede_000/facs/src/panel/celltype.py",
+		"/C/Users/frede_000/facs/src/cell/urls.py",
+		"/C/Users/frede_000/facs/src/cell/settings.py",
+		"/C/Users/frede_000/facs/src/Template/index.html",
+		"/C/Users/frede_000/facs/src/ablist.py",
+		"/C/Users/frede_000/facs/src/panel/models.py",
+		"/C/Users/frede_000/facs/Scripts/activate_this.py",
+		"/C/Users/frede_000/Desktop/test.py",
+		"/C/Users/frede_000/Desktop/venv/src/test_project/settings.py",
+		"/C/Users/frede_000/Desktop/venv/src/manage.py",
+		"/C/Users/frede_000/Desktop/venv/src/db.sqlite3",
+		"/C/Users/frede_000/Desktop/venv/src/test_project/__init__.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\frede_000\\cellmarkers\\src\\panel",
+			"C:\\Users\\frede_000\\facs\\src\\Template"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"publish_lte",
+			"quote",
+			"id",
+			"slug",
+			"id",
+			"panel",
+			"hr",
+			"DJANGO_",
+			"DJANGO_SETTINGS",
+			"DJANGO_SETTINGS_MODULE",
+			"template",
+			"base",
+			"))) ",
+			"1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "panelogic.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 54.0
+	},
+	"pinned_build_system": "",
+	"project": "panelogic.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 384.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
