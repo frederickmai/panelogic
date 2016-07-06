@@ -51,7 +51,7 @@
 			"file": "panelogic.py",
 			"settings":
 			{
-				"buffer_size": 117,
+				"buffer_size": 126,
 				"line_ending": "Windows"
 			}
 		}
@@ -213,15 +213,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 117,
+						"buffer_size": 126,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								107,
-								107
+								0,
+								0
 							]
 						],
 						"settings":
