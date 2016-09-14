@@ -1,4 +1,5 @@
 # For the list in the key, [other_name, extracellular or intracellular, significance in identifying this cell type,expression level in that cell]
+# Criteria need to add (staining index)
 
 astrocyte = {'CD40':['','ex',0,],
              'CD80':['','ex',0,],

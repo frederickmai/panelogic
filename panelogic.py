@@ -6,13 +6,14 @@ class Panelogic(object):
 		self.panel = [0]
 		
 	def display():
-		return dic_of_markers_percentage.total_t_cell
+		return (dic_of_markers_percentage.total_t_cell)
 
 def main():
 	print ("Select cells, cell markers, or fluorophore you want to study")
 	panelogic = Panelogic()
 	print (panelogic.panel)
-	print (b_cell)
+	print (panelogic.display())
+
 
 if __name__ == '__main__':
 	main()
