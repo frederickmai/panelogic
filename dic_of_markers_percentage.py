@@ -1,5 +1,6 @@
-# For the list in the key, [other_name, extracellular or intracellular, significance in identifying this cell type,expression level in that cell]
-# Criteria need to add (staining index)
+# For the list in the key, [other_name, extracellular or intracellular, significance in identifying this cell type,molecules expressed per cell]
+# May need to assign value to extracellular and intracellular e.g. Ex=0.8, in=1, due to Intracellular antigens are usually dimmer and/or less discrete populations than surface antigens. 
+# Criteria need to add (staining index,brightness index)
 # t_natural_killer_cell=Natural killer T cell
 # basophil 
 
