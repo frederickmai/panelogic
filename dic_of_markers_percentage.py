@@ -1,4 +1,4 @@
-# For the list in the key, [other_name, extracellular or intracellular, significance in identifying this cell type,molecules expressed per cell]
+# For the list in the key, [other_name, extracellular or intracellular, significance in identifying this cell type, molecules expressed per cell]
 # May need to assign value to extracellular and intracellular e.g. Ex=0.8, in=1, due to Intracellular antigens are usually dimmer and/or less discrete populations than surface antigens. 
 # Criteria need to add (staining index,brightness index)
 # t_natural_killer_cell=Natural killer T cell
@@ -305,13 +305,13 @@ promonocyte = {'':['','ex',0,],
          'Helios':['','ex',0,],
         }
 '''
-total_t_cell = {'CD3':['','ex',100,], 
-                'CD4':['','ex',0,], 
-                'CD8':['','ex',0,], 
-                'CD45':['','ex',0,], 
-                'CD5':['','ex',0,], 
-                'CD7':['','ex',0,], 
-                'CD':['','ex',0,],
+total_t_cell = {'CD3':['','ex',90,1/124000], 
+                'CD4':['','ex',80,1/100000], 
+                'CD8':['','ex',80,1/90000], 
+                'CD45':['','ex',100,1/200000], 
+                'CD5':['','ex',70,1/90000], 
+                'CD7':['','ex',0,1/20000], 
+                'CD2':['','ex',0,1/55000],
                }
 
-
+# For the list in the key, [other_name, extracellular or intracellular, significance in identifying this cell type, molecules expressed per cell]
